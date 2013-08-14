@@ -1,5 +1,7 @@
 MongoDB README
 
+[![Launch with Cloudify](http://localhost:9000/embed/img/ab0cb11a-8030-48f7-b3b5-94bd0b68336b)](http://localhost:9000/widget/single/ab0cb11a-8030-48f7-b3b5-94bd0b68336b)
+
 Welcome to MongoDB!
 
 COMPONENTS
