@@ -1,5 +1,7 @@
 MongoDB README
 
+[![Build Status](https://travis-ci.org/rantav/onering.png?branch=master)](https://travis-ci.org/rantav/onering)
+
 Welcome to MongoDB!
 
 COMPONENTS
