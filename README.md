@@ -1,16 +1,20 @@
 MongoDB README
 
-[![Launch with Cloudify](http://localhost:9000/embed/img/ab0cb11a-8030-48f7-b3b5-94bd0b68336b)](http://localhost:9000/widget/single/ab0cb11a-8030-48f7-b3b5-94bd0b68336b)
 
-Welcome to MongoDB!
+# Welcome to MongoDB!
 
-COMPONENTS
+## Launch with Cloudify
+[![Launch with Cloudify](http://ranwidget.gsdev.info/embed/img/026c028b-c846-43e2-9c84-1aa6a1b6dad2)](http://ranwidget.gsdev.info/widget/single/026c028b-c846-43e2-9c84-1aa6a1b6dad2)
+
+
+
+### COMPONENTS
 
   mongod - The database process.
   mongos - Sharding controller.
   mongo  - The database shell (uses interactive javascript).
 
-UTILITIES
+### UTILITIES
 
   mongodump         - MongoDB dump tool - for backups, snapshots, etc.
   mongorestore      - MongoDB restore a dump
