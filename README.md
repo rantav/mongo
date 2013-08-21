@@ -3,7 +3,7 @@ MongoDB README
 # Welcome to MongoDB!
 
 ## Launch with Cloudify
-[![Launch with Cloudify](http://ranwidget.gsdev.info/embed/img/026c028b-c846-43e2-9c84-1aa6a1b6dad2)](http://ranwidget.gsdev.info/widget/single/026c028b-c846-43e2-9c84-1aa6a1b6dad2)
+[![Launch with Cloudify](http://ranwidget.gsdev.info/embed/img/026c028b-c846-43e2-9c84-1aa6a1b6dad2?r=1)](http://ranwidget.gsdev.info/widget/single/026c028b-c846-43e2-9c84-1aa6a1b6dad2)
 
 
 
