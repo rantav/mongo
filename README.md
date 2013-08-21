@@ -1,6 +1,5 @@
 MongoDB README
 
-
 # Welcome to MongoDB!
 
 ## Launch with Cloudify
